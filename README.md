@@ -3,7 +3,7 @@ Enterprise Knowledge Management System
 
 
 
-Automatic OS detection (RHEL, Fedora, Ubuntu/Debian, macOS)
+Automatic OS detection (RHEL, Fedora)
 
 <img width="1700" height="824" alt="Screenshot_20250822_145600-1" src="https://github.com/user-attachments/assets/f55632ef-cbff-4af3-a129-6d1eb6d41367" />
 
